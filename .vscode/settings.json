@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ptrace.h": "c",
+        "types.h": "c",
+        "uio.h": "c",
+        "stdio.h": "c",
+        "capability.h": "c",
+        "prctl.h": "c",
+        "seccomp.h": "c",
+        "pcap.h": "c"
+    }
+}
